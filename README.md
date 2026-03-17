@@ -101,4 +101,4 @@ const constrainedHeight = computed(() => {
 
 ## 📄 Лицензия
 
-MIT
+MIT © [VIMER](https://github.com/VIMER5)
